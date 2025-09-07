@@ -16,7 +16,6 @@ public class Step1Test {
         System.out.println("Цель: Замена Power Query на Java");
         System.out.println("Шагов в курсе: 68");
         System.out.println("Финальный результат: Enterprise система автоматизации");
-
         System.out.println("\nГотов к изучению Apache POI!");
     }
 }
